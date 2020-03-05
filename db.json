@@ -1,10 +1,12 @@
-[
-  { "name": "Buzz", "tagline": "A Real Bitter Experience." },
-  { "name": "Trashy Blonde", "tagline": "You Know You Shouldn't" },
-  {
-    "name": "Berliner Weisse With Yuzu - B-Sides",
-    "tagline": "Japanese Citrus Berliner Weisse."
-  },
-  { "name": "Pilsen Lager", "tagline": "Unleash the Yeast Series." },
-  { "name": "Avery Brown Dredge", "tagline": "Bloggers' Imperial Pilsner." }
-]
+{
+  "beers": [
+    { "name": "Buzz", "tagline": "A Real Bitter Experience." },
+    { "name": "Trashy Blonde", "tagline": "You Know You Shouldn't" },
+    {
+      "name": "Berliner Weisse With Yuzu - B-Sides",
+      "tagline": "Japanese Citrus Berliner Weisse."
+    },
+    { "name": "Pilsen Lager", "tagline": "Unleash the Yeast Series." },
+    { "name": "Avery Brown Dredge", "tagline": "Bloggers' Imperial Pilsner." }
+  ]
+}
