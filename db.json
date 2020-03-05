@@ -2,87 +2,153 @@
   "beers": [
     {
       "name": "Buzz",
-      "tagline": "A Real Bitter Experience."
+      "tagline": "A Real Bitter Experience.",
+      "abv": 4.5,
+      "ibu": 60
     },
     {
       "name": "Trashy Blonde",
-      "tagline": "You Know You Shouldn't"
+      "tagline": "You Know You Shouldn't",
+      "abv": 4.1,
+      "ibu": 41.5
     },
     {
       "name": "Berliner Weisse With Yuzu - B-Sides",
-      "tagline": "Japanese Citrus Berliner Weisse."
+      "tagline": "Japanese Citrus Berliner Weisse.",
+      "abv": 4.2,
+      "ibu": 8
     },
     {
       "name": "Pilsen Lager",
-      "tagline": "Unleash the Yeast Series."
+      "tagline": "Unleash the Yeast Series.",
+      "abv": 6.3,
+      "ibu": 55
     },
     {
       "name": "Avery Brown Dredge",
-      "tagline": "Bloggers' Imperial Pilsner."
+      "tagline": "Bloggers' Imperial Pilsner.",
+      "abv": 7.2,
+      "ibu": 59
     },
     {
       "name": "Electric India",
-      "tagline": "Vibrant Hoppy Saison."
+      "tagline": "Vibrant Hoppy Saison.",
+      "abv": 5.2,
+      "ibu": 38
     },
     {
       "name": "AB:12",
-      "tagline": "Imperial Black Belgian Ale."
+      "tagline": "Imperial Black Belgian Ale.",
+      "abv": 11.2,
+      "ibu": 35
     },
     {
       "name": "Fake Lager",
-      "tagline": "Bohemian Pilsner."
+      "tagline": "Bohemian Pilsner.",
+      "abv": 4.7,
+      "ibu": 40
     },
     {
       "name": "AB:07",
-      "tagline": "Whisky Cask-Aged Scotch Ale."
+      "tagline": "Whisky Cask-Aged Scotch Ale.",
+      "abv": 12.5,
+      "ibu": 30
     },
     {
       "name": "Bramling X",
-      "tagline": "Single Hop IPA Series - 2011."
+      "tagline": "Single Hop IPA Series - 2011.",
+      "abv": 7.5,
+      "ibu": 75
     },
     {
       "name": "Misspent Youth",
-      "tagline": "Milk & Honey Scotch Ale."
+      "tagline": "Milk & Honey Scotch Ale.",
+      "abv": 7.3,
+      "ibu": 30
     },
     {
       "name": "Arcade Nation",
-      "tagline": "Seasonal Black IPA."
+      "tagline": "Seasonal Black IPA.",
+      "abv": 5.3,
+      "ibu": 60
     },
     {
       "name": "Movember",
-      "tagline": "Moustache-Worthy Beer."
+      "tagline": "Moustache-Worthy Beer.",
+      "abv": 4.5,
+      "ibu": 50
     },
     {
       "name": "Alpha Dog",
-      "tagline": "Existential Red Ale."
+      "tagline": "Existential Red Ale.",
+      "abv": 4.5,
+      "ibu": 42
     },
     {
       "name": "Mixtape 8",
-      "tagline": "An Epic Fusion Of Old Belgian, American New Wave, And Scotch Whisky."
+      "tagline": "An Epic Fusion Of Old Belgian, American New Wave, And Scotch Whisky.",
+      "abv": 14.5,
+      "ibu": 50
     },
     {
       "name": "Libertine Porter",
-      "tagline": "Dry-Hopped Aggressive Porter."
+      "tagline": "Dry-Hopped Aggressive Porter.",
+      "abv": 6.1,
+      "ibu": 45
     },
     {
       "name": "AB:06",
-      "tagline": "Imperial Black IPA."
+      "tagline": "Imperial Black IPA.",
+      "abv": 11.2,
+      "ibu": 150
     },
     {
       "name": "Russian Doll – India Pale Ale",
-      "tagline": "Nesting Hop Bomb."
+      "tagline": "Nesting Hop Bomb.",
+      "abv": 6,
+      "ibu": 70
     },
     {
       "name": "Hello My Name Is Mette-Marit",
-      "tagline": "Lingonberry Double IPA."
+      "tagline": "Lingonberry Double IPA.",
+      "abv": 8.2,
+      "ibu": 70
     },
     {
       "name": "Rabiator",
-      "tagline": "Imperial Wheat Beer"
+      "tagline": "Imperial Wheat Beer",
+      "abv": 10.27,
+      "ibu": 26
     },
     {
       "name": "Vice Bier",
-      "tagline": "Hoppy Wheat Bier."
+      "tagline": "Hoppy Wheat Bier.",
+      "abv": 4.3,
+      "ibu": 25
+    },
+    {
+      "name": "Devine Rebel (w/ Mikkeller)",
+      "tagline": "Oak-aged Barley Wine.",
+      "abv": 12.5,
+      "ibu": 100
+    },
+    {
+      "name": "Storm",
+      "tagline": "Islay Whisky Aged IPA.",
+      "abv": 8,
+      "ibu": 60
+    },
+    {
+      "name": "The End Of History",
+      "tagline": "The World's Strongest Beer.",
+      "abv": 55,
+      "ibu": null
+    },
+    {
+      "name": "Bad Pixie",
+      "tagline": "Spiced Wheat Beer.",
+      "abv": 4.7,
+      "ibu": 45
     }
   ]
 }
