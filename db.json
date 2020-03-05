@@ -1,41 +1,88 @@
 {
   "beers": [
-    { "name": "Buzz", "tagline": "A Real Bitter Experience." },
-    { "name": "Trashy Blonde", "tagline": "You Know You Shouldn't" },
+    {
+      "name": "Buzz",
+      "tagline": "A Real Bitter Experience."
+    },
+    {
+      "name": "Trashy Blonde",
+      "tagline": "You Know You Shouldn't"
+    },
     {
       "name": "Berliner Weisse With Yuzu - B-Sides",
       "tagline": "Japanese Citrus Berliner Weisse."
     },
-    { "name": "Pilsen Lager", "tagline": "Unleash the Yeast Series." },
-    { "name": "Avery Brown Dredge", "tagline": "Bloggers' Imperial Pilsner." },
-    { "name": "Electric India", "tagline": "Vibrant Hoppy Saison." },
-    { "name": "AB:12", "tagline": "Imperial Black Belgian Ale." },
-    { "name": "Fake Lager", "tagline": "Bohemian Pilsner." },
-    { "name": "AB:07", "tagline": "Whisky Cask-Aged Scotch Ale." },
-    { "name": "Bramling X", "tagline": "Single Hop IPA Series - 2011." },
-    { "name": "Misspent Youth", "tagline": "Milk & Honey Scotch Ale." },
-    { "name": "Arcade Nation", "tagline": "Seasonal Black IPA." },
-    { "name": "Movember", "tagline": "Moustache-Worthy Beer." },
-    { "name": "Alpha Dog", "tagline": "Existential Red Ale." },
+    {
+      "name": "Pilsen Lager",
+      "tagline": "Unleash the Yeast Series."
+    },
+    {
+      "name": "Avery Brown Dredge",
+      "tagline": "Bloggers' Imperial Pilsner."
+    },
+    {
+      "name": "Electric India",
+      "tagline": "Vibrant Hoppy Saison."
+    },
+    {
+      "name": "AB:12",
+      "tagline": "Imperial Black Belgian Ale."
+    },
+    {
+      "name": "Fake Lager",
+      "tagline": "Bohemian Pilsner."
+    },
+    {
+      "name": "AB:07",
+      "tagline": "Whisky Cask-Aged Scotch Ale."
+    },
+    {
+      "name": "Bramling X",
+      "tagline": "Single Hop IPA Series - 2011."
+    },
+    {
+      "name": "Misspent Youth",
+      "tagline": "Milk & Honey Scotch Ale."
+    },
+    {
+      "name": "Arcade Nation",
+      "tagline": "Seasonal Black IPA."
+    },
+    {
+      "name": "Movember",
+      "tagline": "Moustache-Worthy Beer."
+    },
+    {
+      "name": "Alpha Dog",
+      "tagline": "Existential Red Ale."
+    },
     {
       "name": "Mixtape 8",
       "tagline": "An Epic Fusion Of Old Belgian, American New Wave, And Scotch Whisky."
     },
-    { "name": "Libertine Porter", "tagline": "Dry-Hopped Aggressive Porter." },
-    { "name": "AB:06", "tagline": "Imperial Black IPA." },
-    { "name": "Russian Doll – India Pale Ale", "tagline": "Nesting Hop Bomb." },
+    {
+      "name": "Libertine Porter",
+      "tagline": "Dry-Hopped Aggressive Porter."
+    },
+    {
+      "name": "AB:06",
+      "tagline": "Imperial Black IPA."
+    },
+    {
+      "name": "Russian Doll – India Pale Ale",
+      "tagline": "Nesting Hop Bomb."
+    },
     {
       "name": "Hello My Name Is Mette-Marit",
       "tagline": "Lingonberry Double IPA."
     },
-    { "name": "Rabiator", "tagline": "Imperial Wheat Beer" },
-    { "name": "Vice Bier", "tagline": "Hoppy Wheat Bier." },
     {
-      "name": "Devine Rebel (w/ Mikkeller)",
-      "tagline": "Oak-aged Barley Wine."
+      "name": "Rabiator",
+      "tagline": "Imperial Wheat Beer"
     },
-    { "name": "Storm", "tagline": "Islay Whisky Aged IPA." },
-    { "name": "The End Of History", "tagline": "The World's Strongest Beer." },
-    { "name": "Bad Pixie", "tagline": "Spiced Wheat Beer." }
+    {
+      "name": "Vice Bier",
+      "tagline": "Hoppy Wheat Bier."
+    }
   ]
 }
